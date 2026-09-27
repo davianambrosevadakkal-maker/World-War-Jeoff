@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Ops: Warzone FPS",
+  "description": "Tactical first-person shooter featuring high-refresh 120 FPS combat, customizable arsenal, and intense arena warfare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
