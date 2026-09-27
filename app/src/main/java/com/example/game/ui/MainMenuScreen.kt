@@ -227,7 +227,7 @@ fun MainMenuScreen(
             Icon(Icons.Default.PlayArrow, contentDescription = "Deploy", tint = TacticalDarkBg, modifier = Modifier.size(26.dp))
             Spacer(modifier = Modifier.width(8.dp))
             Text(
-              text = "DEPLOY: TDM WARZONE",
+              text = "DEPLOY: DESERT WARZONE",
               color = TacticalDarkBg,
               fontSize = 16.sp,
               fontWeight = FontWeight.Black,
